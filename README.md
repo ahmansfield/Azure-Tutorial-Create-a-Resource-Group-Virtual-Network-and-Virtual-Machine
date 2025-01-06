@@ -1,8 +1,9 @@
 
 ![cloud-computing-azure-00](https://github.com/user-attachments/assets/f63556bf-408f-49ba-8022-ef1e760330a4)
-"
-"
-"
+
+
+
+
 # Azure Tutorial: Create a Resource Group, Virtual Network, and Virtual Machine
 Description: This tutorial demonstrates how to create essential Azure resources:
 
