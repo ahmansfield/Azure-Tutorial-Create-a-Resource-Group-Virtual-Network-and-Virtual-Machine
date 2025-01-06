@@ -144,10 +144,15 @@ This section guides you through:
 
 Azure-Resource-Group-VM-Tutorial/
 ├── README.md                 # Tutorial guide
+
 ├── screenshots/              # Images showing each step
+
 │   ├── create-resource-group.png
+
 │   ├── create-virtual-network.png
+
 │   ├── create-virtual-machine.png
+
 │   └── vm-running.png
 
 
