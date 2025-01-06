@@ -115,7 +115,7 @@ This section guides you through:
 1. **Create a Resource Group**:
    - Navigate to Resource Groups in the Azure Portal.
    - Click **+ Create**, fill out the details, and create the Resource Group.
-   ![Create Resource Group](screenshots/create-resource-group.png)
+   ![Create Resource Group]("C:\Users\TEMP.ANDREW\Desktop\Azure Project\images\az1.png")
 
 2. **Set Up a Virtual Network**:
    - Go to Virtual Networks and click **+ Create**.
