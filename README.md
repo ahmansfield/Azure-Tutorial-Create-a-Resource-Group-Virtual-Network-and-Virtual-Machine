@@ -150,6 +150,10 @@ Azure-Resource-Group-VM-Tutorial/
 │   ├── create-virtual-machine.png
 │   └── vm-running.png
 
+
+
+
+
 Demonstration Section
 The demonstration section shows users how to use the project step by step. It includes clear instructions, visuals, and testing to ensure users can replicate the process.
 
