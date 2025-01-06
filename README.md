@@ -22,3 +22,6 @@ Tutorial Steps
 An active Microsoft Azure account.
 Familiarity with the Azure Portal or Azure CLI.
 Azure CLI installed (optional, for scripting).
+
+<img width="1006" alt="az1" src="https://github.com/user-attachments/assets/fe750b53-5f1c-4905-8a21-c02523d641fd" />
+Create a Resource group
