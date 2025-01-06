@@ -4,11 +4,10 @@ Description: This tutorial demonstrates how to create essential Azure resources:
 A Resource Group to organize resources.
 A Virtual Network (VNet) to enable private communication.
 A Virtual Machine (VM) to run applications.
-Project Folder Structure
-Organize your GitHub project like this:
 
-plaintext
-Copy code
+
+
+
 Azure-Resource-Group-VM-Tutorial/
 ├── README.md                 # Tutorial guide
 ├── screenshots/              # Images showing each step
@@ -17,11 +16,16 @@ Azure-Resource-Group-VM-Tutorial/
 │   ├── create-virtual-machine.png
 │   └── vm-running.png
 
+
+
 Tutorial Steps
 1. Prerequisites
 An active Microsoft Azure account.
 Familiarity with the Azure Portal or Azure CLI.
 Azure CLI installed (optional, for scripting).
+
+
+
 
 <img width="1006" alt="az1" src="https://github.com/user-attachments/assets/fe750b53-5f1c-4905-8a21-c02523d641fd" />
 Create a Resource group
