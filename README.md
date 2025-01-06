@@ -128,7 +128,10 @@ This section guides you through:
 3. **Deploy a Virtual Machine**:
    - Navigate to Virtual Machines and click **+ Create**.
    - Configure the VM with an admin user, network, and size.
-   ![Create Virtual Machine](screenshots/create-virtual-machine.png)
+   ![Create Virtual Machine]<img width="964" alt="az7" src="https://github.com/user-attachments/assets/5fb4ef6d-232f-4610-8555-bcddd19b1968" />
+
+
+
 
 4. **Connect to the Virtual Machine**:
    - Use RDP (Windows) or SSH (Linux) to connect to the VM.
