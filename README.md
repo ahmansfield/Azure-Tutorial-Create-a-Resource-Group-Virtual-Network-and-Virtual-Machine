@@ -121,7 +121,7 @@ This section guides you through:
    - Go to Virtual Networks and click **+ Create**.
    - Add an address space and a subnet.
    
-![Create Virtual Network](<img width="1006" alt="az1" src="https://github.com/user-attachments/assets/961ddde2-05a7-4aa2-9e3f-1f94cd20c69b" />)
+![Create Virtual Network]<img width="1006" alt="az1" src="https://github.com/user-attachments/assets/961ddde2-05a7-4aa2-9e3f-1f94cd20c69b" />
 
 
 
