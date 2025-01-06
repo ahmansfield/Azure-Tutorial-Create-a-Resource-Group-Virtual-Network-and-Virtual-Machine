@@ -51,4 +51,4 @@ CLICK CREATE
 <img width="1920" alt="az14" src="https://github.com/user-attachments/assets/74995cbb-247e-47dc-9d43-4909f12b3cbd" />
 <img width="1920" alt="az15" src="https://github.com/user-attachments/assets/837593dc-0cfa-4305-a189-37aad7a001ce" />
 
-<img width="958" alt="az9" src="https://github.com/user-attachments/assets/0fb9b6c2-e3fe-46d7-afa7-a26fccf83003" />
+
