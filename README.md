@@ -135,11 +135,11 @@ This section guides you through:
 
 4. **Connect to the Virtual Machine**:
    - Use RDP (Windows) or SSH (Linux) to connect to the VM.
-   ![VM Running]<img width="811" alt="rdp6" src="https://github.com/user-attachments/assets/1db99385-4fda-4dfd-8043-5d33c4e2db3e" />
-<img width="295" alt="rdp5" src="https://github.com/user-attachments/assets/f402fb0a-dc21-407b-9bfd-e37cbd761506" />
-<img width="342" alt="rdp3" src="https://github.com/user-attachments/assets/ec2688b6-b09e-4bec-aeab-4991b31bcfbd" />
-<img width="315" alt="rdp2" src="https://github.com/user-attachments/assets/03510703-b9fa-4092-a8b5-8f1aac9d5932" />
-<img width="306" alt="rdp" src="https://github.com/user-attachments/assets/caf3df7c-4999-4943-b8e4-79902a253e0f" />
+   ![VM Running]<img width="811" alt="rdp6" src="https://github.com/user-attachments/assets/dcc36f49-35bb-4a8e-9964-0185242723f3" />
+<img width="295" alt="rdp5" src="https://github.com/user-attachments/assets/bac734b1-2a61-46de-a705-3ad5199454ac" />
+<img width="342" alt="rdp3" src="https://github.com/user-attachments/assets/d3b2a6e3-6b53-4a58-b16b-94de3da01a17" />
+<img width="315" alt="rdp2" src="https://github.com/user-attachments/assets/6efd9e99-6dfc-4667-a3ed-5ba8ab94d1e4" />
+<img width="306" alt="rdp" src="https://github.com/user-attachments/assets/97440261-3710-4519-a385-76c41696ab66" />
 
 
 
