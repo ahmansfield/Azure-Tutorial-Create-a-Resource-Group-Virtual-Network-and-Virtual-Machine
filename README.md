@@ -135,7 +135,20 @@ This section guides you through:
 
 4. **Connect to the Virtual Machine**:
    - Use RDP (Windows) or SSH (Linux) to connect to the VM.
-   ![VM Running](screenshots/vm-running.png)
+   ![VM Running]<img width="811" alt="rdp6" src="https://github.com/user-attachments/assets/1db99385-4fda-4dfd-8043-5d33c4e2db3e" />
+<img width="295" alt="rdp5" src="https://github.com/user-attachments/assets/f402fb0a-dc21-407b-9bfd-e37cbd761506" />
+<img width="342" alt="rdp3" src="https://github.com/user-attachments/assets/ec2688b6-b09e-4bec-aeab-4991b31bcfbd" />
+<img width="315" alt="rdp2" src="https://github.com/user-attachments/assets/03510703-b9fa-4092-a8b5-8f1aac9d5932" />
+<img width="306" alt="rdp" src="https://github.com/user-attachments/assets/caf3df7c-4999-4943-b8e4-79902a253e0f" />
+
+
+
+
+
+
+
+
+
 
 ### Testing
 - Ping the Virtual Machine from your local system.
